@@ -1,6 +1,6 @@
 # npmdoc-angular2-moment
 
-#### api documentation for  [angular2-moment (v1.3.3)](https://github.com/urish/angular2-moment#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-angular2-moment.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-angular2-moment) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-angular2-moment.svg)](https://travis-ci.org/npmdoc/node-npmdoc-angular2-moment)
+#### basic api documentation for  [angular2-moment (v1.3.3)](https://github.com/urish/angular2-moment#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-angular2-moment.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-angular2-moment) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-angular2-moment.svg)](https://travis-ci.org/npmdoc/node-npmdoc-angular2-moment)
 
 #### Moment.JS pipes for Angular2 (timeago and more)
 
@@ -135,7 +135,8 @@
         "test": "tslint src/*.ts --exclude=src/*.d.ts && ngc && karma start"
     },
     "typings": "./index.d.ts",
-    "version": "1.3.3"
+    "version": "1.3.3",
+    "bin": {}
 }
 ```
 
